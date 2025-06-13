@@ -1,3 +1,11 @@
 ## Restaurant billing software
 
 Menu items
+###JSON (Javascript Object Notation)
+Object
+{
+  syntax = "Double quotes"
+  Number = 1608
+  boolean = true
+}
+
