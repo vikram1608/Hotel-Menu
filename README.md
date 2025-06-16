@@ -8,7 +8,7 @@ Example
                     "Skills": ["HTML", "css", "javascript"],
                         "extra": ["github","csv", "cmd"],
                             "address": [
-                                            {"type": "office", "location": "yellareddyguda,hyd", "pincode": 500018 }
+                                            {"type": "office", "location": "yellareddyguda,hyd", "pincode": 5000235 }
                                                 ]
 
                                                 }
